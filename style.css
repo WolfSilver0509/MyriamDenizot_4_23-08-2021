@@ -778,7 +778,7 @@ h4 {
 }
 
 .tc-white {
-    color: #F3976C!important;
+    color: white !important;
 }
 
 .btn-atomic-tangerine {
@@ -828,6 +828,16 @@ h4 {
     background-image: url("img/image-de-presentation.webp");
 }
 
+.citation-1{
+    font-size: 23px;
+}
+.citation-2{
+    font-size: 20px;
+    font-style: italic;
+}
+.citation-3{
+    font-size: 20px;
+}
 @media (max-width: 1024px) {
     .bloc {
         padding-left: 20px;
@@ -980,6 +990,7 @@ h4 {
     .size{
         width: 100%;
     }
+   
     .bloc {
         padding-left: 0;
         padding-right: 0;
